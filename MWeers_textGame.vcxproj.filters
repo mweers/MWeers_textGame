@@ -15,18 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="..\MWeers_textGame\stdafx.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="..\MWeers_textGame\targetver.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-  </ItemGroup>
-  <ItemGroup>
-    <ClCompile Include="..\MWeers_textGame\MWeers_textGame.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="..\MWeers_textGame\stdafx.cpp">
+    <ClCompile Include="MWeers_textGame.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
